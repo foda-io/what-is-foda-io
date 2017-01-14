@@ -14,5 +14,9 @@ article {
 }
 h1 {
   font-size: 1.5rem;
+  font-weight: normal;
   margin: 1rem 0;
+}
+.github:hover {
+  fill: #50E3C2;
 }
